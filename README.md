@@ -1,4 +1,4 @@
-# Grocery Store Management System usinh MySQL 
+# Grocery Store Management System using SQL 
 
 ## 📌 Project Overview
 This project performs a comprehensive analysis of a grocery store database using SQL to uncover key business insights.
